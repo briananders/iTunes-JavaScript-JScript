@@ -10,9 +10,8 @@ Each .js file is a different script that will help you manage your Windows iTune
 If the script does something destructive, like remove a character from track title, make sure that you set the variables correctly.
 
 i.e.
-'''javascript
-var RemoveFromFront = (The number of characters you wish to remove from the front of the title);
-var RemoveFromBack = (The number of characters you wish to remove from the back of the title);
-'''
+  var RemoveFromFront = (The number of characters you wish to remove from the front of the title);
+  var RemoveFromBack = (The number of characters you wish to remove from the back of the title);
+
 
 After you're set to go. Just double click, and it should do the magic that you're looking for.
