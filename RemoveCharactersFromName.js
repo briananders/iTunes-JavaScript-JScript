@@ -10,7 +10,7 @@ var tracks = objApp.SelectedTracks;
 var numTracks = tracks.Count;
 
 
-var RemoveFromFront = 47;
+var RemoveFromFront = 0;
 var RemoveFromBack = 0;
 
 

@@ -18,7 +18,6 @@ while(numTracks != 0)
 {
 	var   currTrack = tracks.Item(numTracks);
     
-	//WScript.Echo("[" + currTrack.Artist.substring(RemoveFromFront, currTrack.Artist.length - RemoveFromBack) + "]");
 	currTrack.Artist = currTrack.Artist.substring(RemoveFromFront, currTrack.Artist.length - RemoveFromBack); 
 	
 	numTracks--;
